@@ -31,7 +31,7 @@ Une fois le fond de carte créé, nous pouvons ajouter nos éléments d'habillag
 
 ## Création de l'interface
 
-Une fois les éléments de fond de carte et d'habillages définis. nous avons créé une interface d'interaction avec la carte et les données Geojson. Cette interface se décompose en trois parties :
+Une fois les éléments de fond de carte et d'habillages définis, nous avons créé une interface d'interaction avec la carte et les données Geojson. Cette interface se décompose en trois parties :
 
 -  une carte interactive qui permet de visualiser nos limites administratives de la Suisse,
 -  une liste de boutons permettant de sélectionner les limites à afficher,

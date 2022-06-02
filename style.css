@@ -21,24 +21,21 @@ h1 {
     position: relative;
     text-align: center;
     margin: 0px;
+    margin-left: 15%;
 }
 
-h3 {
+h2 {
     color: rgb(77, 128, 41);
     position: relative;
     text-align: center;
     margin-top: 5px;
+    margin-left: 15%;
 }
 
-.left{
-    margin-left: 925px;
-    position: absolute;
-    background-color: rgb(171, 171, 171);
-    width: 570px;
-    height: 600px;
-    text-align: center;
-    margin-top: 9px;
-    border-radius: 5px;
+.image{
+  text-align: center;
+  padding-bottom:10px;
+  width: 100%;
 }
 
 p{
@@ -153,4 +150,96 @@ p{
     color: white;
     cursor: pointer;
   }
+
+  #Nom {
+    text-align: left;
+  position: aboslute;   
+  }
+
+  .parent{
+    margin-left: 920px;
+    position: absolute;
+    background-color: lightgray;
+    width: 575px;
+    height: 300px;
+    text-align: center;
+    font-size: large;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: rgb(77, 128, 41);
+    border:5px;
+    padding: 0px;
+}
+
+.parent0{
+  position: relative;
+  color: rgb(77, 128, 41);  
+  padding-top: 0px;
+  background-color: lightgray;
+  width: 355px;
+  height: 180px;
+  margin-left:  200px;  
+  display: block;
+  font-size: large;
+  text-align:left;
+  border:5px;
+  border-radius: 5px;
+}
+
+.parent1{
+  position: relative;
+  color: rgb(77, 128, 41);  
+  padding-top: 30px;
+  background-color: lightgray;
+  width: 555px;
+  height: 60px;
+  font-size: large;
+  text-align:left;
+  margin-top: -6px;
+  border:5px;
+  border-radius: 5px;
+}
+
+.parent2{
+  position: relative;
+  color: rgb(77, 128, 41);  
+  padding-top: 0px;
+  background-color: lightgray;
+  width: 555px;
+  height: 60px;
+  font-size: large;
+  text-align:left;
+  margin-top: -6px;
+  border:5px;
+  border-radius: 5px;
+}
+
+.parent3{
+  position: relative;
+  color: rgb(77, 128, 41);  
+  padding-top: 0px;
+  background-color: lightgray;
+  width: 555px;
+  height: 60px;
+  font-size: large;
+  text-align:left;
+  margin-top: -6px;
+  border:5px;
+  border-radius: 5px;
+}
+
+.parent4{
+  position: relative;
+  color: rgb(77, 128, 41);  
+  padding-top: 0px;
+  background-color: lightgray;
+  width: 555px;
+  height: 60px;
+  font-size: large;
+  text-align:left;
+  margin-top: -6px;
+  border:5px;
+  border-radius: 5px;
+}
+
 
